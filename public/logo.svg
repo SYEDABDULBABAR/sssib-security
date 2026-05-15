@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" fill="none">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f0c674" />
+      <stop offset="50%" stop-color="#d4a853" />
+      <stop offset="100%" stop-color="#b8922f" />
+    </linearGradient>
+  </defs>
+  <path d="M8 12L22 4L36 12V24C36 33.6 29.6 42.4 22 45C14.4 42.4 8 33.6 8 24V12Z" fill="#0a1628" stroke="url(#goldGrad)" stroke-width="1.5"/>
+  <path d="M16 22L20 26L28 18" stroke="url(#goldGrad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="44" y="32" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#0a1628">Secure</text>
+  <text x="126" y="32" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#d4a853">Guard</text>
+  <text x="44" y="44" font-family="Arial, sans-serif" font-size="8" fill="#9ca3af" letter-spacing="1">PROFESSIONAL SECURITY SERVICES</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Outer shield -->
+  <path d="M100 10L175 45V100C175 140 140 175 100 190C60 175 25 140 25 100V45L100 10Z" fill="#0a1628" stroke="#d4a853" stroke-width="3"/>
+  <!-- Shark silhouette -->
+  <g transform="translate(100,105)">
+    <!-- Shark body -->
+    <path d="M-45,0 C-45,-8 -35,-18 -20,-20 C-5,-22 10,-18 20,-15 L40,-25 L35,-10 C45,-8 50,0 50,0 C50,0 45,8 35,10 L40,25 L20,15 C10,18 -5,22 -20,20 C-35,18 -45,8 -45,0Z" fill="#d4a853"/>
+    <!-- Dorsal fin -->
+    <path d="M-5,-20 C0,-35 10,-45 15,-35 C18,-30 15,-22 10,-18Z" fill="#d4a853"/>
+    <!-- Tail fin -->
+    <path d="M40,-25 L55,-35 L50,-15 L40,-25Z" fill="#d4a853"/>
+    <path d="M40,25 L55,35 L50,15 L40,25Z" fill="#d4a853"/>
+    <!-- Eye -->
+    <circle cx="-25" cy="-5" r="3" fill="#0a1628"/>
+    <!-- Gill lines -->
+    <line x1="-15" y1="-12" x2="-12" y2="0" stroke="#0a1628" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="-10" y1="-10" x2="-7" y2="2" stroke="#0a1628" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <!-- Inner shield line -->
+  <path d="M100 20L165 52V100C165 135 135 168 100 180C65 168 35 135 35 100V52L100 20Z" fill="none" stroke="#d4a853" stroke-width="1" opacity="0.3"/>
+</svg>
